@@ -36,7 +36,7 @@ Here’s an overview of the directory structure and files in the project:
 This project requires **Python 3.8.10** and the following libraries. You may install them using the command below:
 
 ```bash
-pip install tensorflow==2.4.1 numpy==1.19.2 matplotlib pandas scikit-learn seaborn opencv-python-headless
+pip install tensorflow==2.4.1 numpy==1.19.2 matplotlib pandas scikit-learn seaborn opencv-python-headless tf-explain
 ```
 
 ## Directory and File Descriptions
